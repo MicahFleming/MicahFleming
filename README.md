@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MicahFleming
 - 👀 I’m interested in STEM,Cybersecurity,Cloud Security, & AI.
-- 🌱 I’m currently studing for the CompTIA Security +
+- 🌱 I’m currently studying for the CompTIA Security +
 - 💞️ I’m looking to collaborate on projects with other Cybersecurity Enthusiasts. 
 - 📫 How to reach me https://www.linkedin.com/in/micahflemingcybersecurity/
 
